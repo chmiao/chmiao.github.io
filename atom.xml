@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Plastic</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://chamyu.com/"/>
+  <updated>2019-11-01T14:30:58.747Z</updated>
+  <id>http://chamyu.com/</id>
+  
+  <author>
+    <name>Yuzuki Rin</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>论备份数据的重要性</title>
+    <link href="http://chamyu.com/2019/11/01/SSD-data-recovery/"/>
+    <id>http://chamyu.com/2019/11/01/SSD-data-recovery/</id>
+    <published>2019-11-01T14:03:09.000Z</published>
+    <updated>2019-11-01T14:30:58.747Z</updated>
+    
+    <content type="html"><![CDATA[<p>删文件时手贱圈了一个超过10GB和谐资源的文件夹, 结果系统就给我直接永久删除了</p><p>我当时就Σ( ﾟдﾟ)…… WDNMD就是手贱</p><p>然后立马搜索数据恢复的方法, 一番调查后用Disk Genius来进行数据恢复</p><p>好不容易把数据拷出来发现文件已经损害, 谷歌后发现由于固态硬盘的存储特性, 丢失的数据很难找回</p><p>行吧, 又学到一个新知识, 不过这学习成本未免太大了, 重要数据(大嘘)还是得及时备份</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;删文件时手贱圈了一个超过10GB和谐资源的文件夹, 结果系统就给我直接永久删除了&lt;/p&gt;
+&lt;p&gt;我当时就Σ( ﾟдﾟ)…… WDNMD就是手贱&lt;/p&gt;
+&lt;p&gt;然后立马搜索数据恢复的方法, 一番调查后用Disk Genius来进行数据恢复&lt;/p&gt;
+&lt;p&gt;好不容易把数据拷出来发
+      
+    
+    </summary>
+    
+    
+    
+      <category term="数据恢复" scheme="http://chamyu.com/tags/%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D/"/>
+    
+      <category term="SSD" scheme="http://chamyu.com/tags/SSD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="http://chamyu.com/2019/10/30/Hello-World/"/>
+    <id>http://chamyu.com/2019/10/30/Hello-World/</id>
+    <published>2019-10-30T03:37:46.000Z</published>
+    <updated>2019-11-01T14:28:44.299Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好, 世界!</p><p>一直想开一个blog来记录自己的学习和成长, 折腾了好久总算搭起了这个小窝</p><p>最初的想法是跟着廖雪峰老师用python写一个web app, <del>不过还是人太懒</del>，最终选择了hexo和托管在github pages上的方案</p><p>以后可能会学Django做一些实际的web项目, 纠结于计算机专业课的学习, 这个计划估计又是遥遥无期( ´_ゝ｀)</p><p>新的起点? 今后还得继续努力!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;你好, 世界!&lt;/p&gt;
+&lt;p&gt;一直想开一个blog来记录自己的学习和成长, 折腾了好久总算搭起了这个小窝&lt;/p&gt;
+&lt;p&gt;最初的想法是跟着廖雪峰老师用python写一个web app, &lt;del&gt;不过还是人太懒&lt;/del&gt;，最终选择了hexo和托管在github pages上
+      
+    
+    </summary>
+    
+    
+    
+      <category term="hello world!" scheme="http://chamyu.com/tags/hello-world/"/>
+    
+  </entry>
+  
+</feed>
