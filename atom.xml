@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chamyu.com/"/>
-  <updated>2019-11-02T02:45:14.984Z</updated>
+  <updated>2019-11-02T16:05:22.928Z</updated>
   <id>http://chamyu.com/</id>
   
   <author>
@@ -17,20 +17,47 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>NAS初体验</title>
-    <link href="http://chamyu.com/2019/11/02/My-first-NAS/"/>
-    <id>http://chamyu.com/2019/11/02/My-first-NAS/</id>
-    <published>2019-11-02T02:32:05.000Z</published>
-    <updated>2019-11-02T02:45:14.984Z</updated>
+    <title>Hello World</title>
+    <link href="http://chamyu.com/2019/11/02/re-hello-world/"/>
+    <id>http://chamyu.com/2019/11/02/re-hello-world/</id>
+    <published>2019-11-02T15:31:09.000Z</published>
+    <updated>2019-11-02T16:05:22.928Z</updated>
     
-    <content type="html"><![CDATA[<p>先空着晚上写~</p>]]></content>
+    <content type="html"><![CDATA[<p>第一篇blog莫名其妙的404，本地可以显示，云端却一直都是404 not found</p><p>折腾了半天都找不到解决方案，删了重写又太可惜，于是准备重发一份</p><p>就这样~</p><hr><p><em>世界は今一分間に回転のスビートで回って</em>  ♪ </p><hr>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;先空着晚上写~&lt;/p&gt;
-
+        &lt;p&gt;第一篇blog莫名其妙的404，本地可以显示，云端却一直都是404 not found&lt;/p&gt;
+&lt;p&gt;折腾了半天都找不到解决方案，删了重写又太可惜，于是准备重发一份&lt;/p&gt;
+&lt;p&gt;就这样~&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;世界は今一分間に回転のスビートで回って&lt;/em&gt;  
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>NAS初体验</title>
+    <link href="http://chamyu.com/2019/11/02/My-first-NAS/"/>
+    <id>http://chamyu.com/2019/11/02/My-first-NAS/</id>
+    <published>2019-11-02T02:32:05.000Z</published>
+    <updated>2019-11-02T15:36:27.143Z</updated>
+    
+    <content type="html"><![CDATA[<p>近年来NAS越来越流行，长期泡在S1里让我产生了阿宅们人手一台NAS的错觉，毕竟能有一台自己的云服务器用于看动画听音声再好不过了</p><p>前几天看到坛友提到的矿渣猫盘各方面都很不错，很是想拥有。于是立即上闲鱼下了单外加一块320G的西数蓝盘用来尝尝鲜</p><p>实际体验相当不错，上传下载皆能达到6MB/s左右。除了云存储也可以当下载机来玩玩，不过我的老路由器只有ipv4挂不了ipv6的pt，只能等毕业后升级路由器来弥补遗憾了</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;近年来NAS越来越流行，长期泡在S1里让我产生了阿宅们人手一台NAS的错觉，毕竟能有一台自己的云服务器用于看动画听音声再好不过了&lt;/p&gt;
+&lt;p&gt;前几天看到坛友提到的矿渣猫盘各方面都很不错，很是想拥有。于是立即上闲鱼下了单外加一块320G的西数蓝盘用来尝尝鲜&lt;/p&gt;
+&lt;p&gt;实
       
     
     </summary>
@@ -46,18 +73,18 @@
     <link href="http://chamyu.com/2019/11/01/SSD-data-recovery/"/>
     <id>http://chamyu.com/2019/11/01/SSD-data-recovery/</id>
     <published>2019-11-01T14:03:09.000Z</published>
-    <updated>2019-11-02T02:42:28.616Z</updated>
+    <updated>2019-11-02T15:34:50.501Z</updated>
     
-    <content type="html"><![CDATA[<p>清硬盘时手贱圈了一个超过10GB和谐资源的文件夹, 结果系统就给我直接永久删除了</p><p>我当时就Σ( ﾟдﾟ)…… WDNMD就是手贱</p><p>颤抖着手开始搜索数据恢复的方法, 一番调查后用Disk Genius来进行数据恢复</p><p>把文件考出来发现数据已经损坏, 这我才知道由于固态硬盘的存储特性, 数据丢失基本等于完蛋</p><p>行吧, 又学到一个新知识, 不过这学习成本未免太大了( TдT)</p><p>重要数据(大嘘)还是得及时备份</p>]]></content>
+    <content type="html"><![CDATA[<p>清硬盘时手贱圈了一个超过10GB和谐资源的文件， 结果系统就给我直接永久删除了</p><p>我当时就Σ( ﾟдﾟ)…… WDNMD就是手贱</p><p>颤抖着手开始搜索数据恢复的方法，一番调查后用Disk Genius来进行数据恢复</p><p>把文件拷出来后发现数据已经损坏，这我才知道由于固态硬盘的存储特性，数据丢失基本等于完蛋</p><p>行吧，又学到一个新知识，不过这学习成本未免太大了( TдT)</p><p>重要数据(大嘘)还是得及时备份</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;清硬盘时手贱圈了一个超过10GB和谐资源的文件夹, 结果系统就给我直接永久删除了&lt;/p&gt;
+        &lt;p&gt;清硬盘时手贱圈了一个超过10GB和谐资源的文件， 结果系统就给我直接永久删除了&lt;/p&gt;
 &lt;p&gt;我当时就Σ( ﾟдﾟ)…… WDNMD就是手贱&lt;/p&gt;
-&lt;p&gt;颤抖着手开始搜索数据恢复的方法, 一番调查后用Disk Genius来进行数据恢复&lt;/p&gt;
-&lt;p&gt;把文件考出来发现数
+&lt;p&gt;颤抖着手开始搜索数据恢复的方法，一番调查后用Disk Genius来进行数据恢复&lt;/p&gt;
+&lt;p&gt;把文件拷出来后发现数据
       
     
     </summary>
@@ -75,17 +102,17 @@
     <link href="http://chamyu.com/2019/10/30/Hello-World/"/>
     <id>http://chamyu.com/2019/10/30/Hello-World/</id>
     <published>2019-10-30T03:37:46.000Z</published>
-    <updated>2019-11-02T02:43:50.403Z</updated>
+    <updated>2019-11-02T16:06:40.695Z</updated>
     
-    <content type="html"><![CDATA[<p>一直想开一个blog来记录自己的学习和成长, 折腾了好久总算搭起了这个小窝</p><p>最初的想法是跟着廖雪峰老师用python写一个web app, <del>不过还是人太懒</del>，最终选择了hexo和托管在github pages上的方案</p><p>以后可能会学Django做一些实际的web项目, 纠结于计算机专业课的学习, 这个计划估计又是遥遥无期( ´_ゝ｀)</p><p>新的起点? 今后还得继续努力!</p>]]></content>
+    <content type="html"><![CDATA[<p>一直想开一个blog来记录自己的学习和成长，折腾了好久总算搭起了这个小窝</p><p>最初的想法是跟着廖雪峰老师用python写一个web app，<del>不过还是人太懒</del>，最终选择了hexo和托管在github pages上的方案</p><p>以后可能会学Django做一些实际的web项目，纠结于计算机专业课的学习，这个计划估计又是遥遥无期( ´_ゝ｀)</p><p>新的起点？今后还得继续努力！</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;一直想开一个blog来记录自己的学习和成长, 折腾了好久总算搭起了这个小窝&lt;/p&gt;
-&lt;p&gt;最初的想法是跟着廖雪峰老师用python写一个web app, &lt;del&gt;不过还是人太懒&lt;/del&gt;，最终选择了hexo和托管在github pages上的方案&lt;/p&gt;
-&lt;p&gt;以后可能
+        &lt;p&gt;一直想开一个blog来记录自己的学习和成长，折腾了好久总算搭起了这个小窝&lt;/p&gt;
+&lt;p&gt;最初的想法是跟着廖雪峰老师用python写一个web app，&lt;del&gt;不过还是人太懒&lt;/del&gt;，最终选择了hexo和托管在github pages上的方案&lt;/p&gt;
+&lt;p&gt;以后可能会学
       
     
     </summary>
