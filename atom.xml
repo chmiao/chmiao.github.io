@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chamyu.com/"/>
-  <updated>2019-11-02T16:05:22.928Z</updated>
+  <updated>2019-11-13T15:38:10.282Z</updated>
   <id>http://chamyu.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>天天吃鸡吃不胖，天天摸鱼身体棒~</title>
+    <link href="http://chamyu.com/2019/11/13/moyu/"/>
+    <id>http://chamyu.com/2019/11/13/moyu/</id>
+    <published>2019-11-13T15:24:55.000Z</published>
+    <updated>2019-11-13T15:38:10.282Z</updated>
+    
+    <content type="html"><![CDATA[<p>日子过得还是太舒服了，天天逃课又不干正事，看书2小时一半时间在摸鱼</p><p>年轻人日子过得还是太舒服了，天天逃课又不干正事，看书2小时一半时间在摸鱼</p><p><del>我TM还有脸说</del></p><p>b站斗鱼都得慢慢戒了，也不用纠结院校，好好努力明年最大的可能还是合工大，当然也可能本校都考不上（反向flag</p><p>最近晚上不断电了，加把劲多学一会</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;日子过得还是太舒服了，天天逃课又不干正事，看书2小时一半时间在摸鱼&lt;/p&gt;
+&lt;p&gt;年轻人日子过得还是太舒服了，天天逃课又不干正事，看书2小时一半时间在摸鱼&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;我TM还有脸说&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;b站斗鱼都得慢慢戒了，也不用纠结院校，好好努力明年最
+      
+    
+    </summary>
+    
+    
+    
+      <category term="日常" scheme="http://chamyu.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World pt.2</title>
     <link href="http://chamyu.com/2019/11/02/re-hello-world/"/>
     <id>http://chamyu.com/2019/11/02/re-hello-world/</id>
     <published>2019-11-02T15:31:09.000Z</published>
-    <updated>2019-11-02T16:05:22.928Z</updated>
+    <updated>2019-11-13T15:23:27.490Z</updated>
     
     <content type="html"><![CDATA[<p>第一篇blog莫名其妙的404，本地可以显示，云端却一直都是404 not found</p><p>折腾了半天都找不到解决方案，删了重写又太可惜，于是准备重发一份</p><p>就这样~</p><hr><p><em>世界は今一分間に回転のスビートで回って</em>  ♪ </p><hr>]]></content>
     
