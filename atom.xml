@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chamyu.com/"/>
-  <updated>2019-11-18T16:03:23.463Z</updated>
+  <updated>2019-12-04T06:30:53.127Z</updated>
   <id>http://chamyu.com/</id>
   
   <author>
@@ -17,13 +17,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>自然语言处理简史之三：马尔科夫和香农的语言统计模型</title>
+    <link href="http://chamyu.com/2019/12/04/andrey-markov/"/>
+    <id>http://chamyu.com/2019/12/04/andrey-markov/</id>
+    <published>2019-12-04T05:17:44.000Z</published>
+    <updated>2019-12-04T06:30:53.127Z</updated>
+    
+    <content type="html"><![CDATA[<p>1913年圣彼得堡，俄国数学家安德烈·安德烈耶维奇·马尔科夫(Andrey Andreyevich  Markov)在书房里翻看着亚历山大·普希金(Alexander Pushkin)的诗歌小说《叶甫盖尼·奥涅金》(Eugene  Onegin)。但是，马尔科夫并不是在欣赏诗歌。相反，他拿起一支笔，在草纸上抄录下诗歌的前20000个字母——去掉所有标点和空格。然后，他将字母串等分成200节，每节100个字母按10×10规格罗列成矩阵，开始对每一行和每一列中的元音计数。</p><p>在旁观者看来，马尔科夫举止诡异。为何有人会以这种方式解构文学天才的作品？但是马尔科夫并不打算从诗歌中体悟人生和命运的真相。他正在寻找文本的基本数学结构。</p><p>分离元音和辅音，马尔科夫希望检验从1909年发展起来的概率论。在当时，概率理论主要用于分析分析轮盘赌或硬币翻转之类的现象，历史事件不会改变当前事件的概率。但是马尔科夫认为，大多数事件具有因果关系，先发生的事件往往影响到之后的事件。他想要找出这种关系的数学模型。</p><p>他认为，语言文本就是一个例子——过去部分地决定了当前。为了证明这一点，他想统计出，普希金小说中，前一个字母在多大程度上决定了之后字母的选择。</p><p>经过简单计数，他发现43％的字母是元音，而57％是辅音。然后，马尔科夫将这20000个字母分成成对的元音和辅音组合：他发现有1104个元音-元音对，3827个辅音-辅音对和15069个元音-辅音和辅音-元音对。从统计学上讲，这表明，对于普希金文本中的任何给定字母，如果它是元音，则下一个字母很大程度上会是辅音，反之亦然。</p><p>马尔科夫证明，普希金的《叶甫盖尼·奥涅金》中的字母不仅不是随机分布，而且还具有可以建模的基本统计质量。遗憾的是，他就此写成的论文却埋没在历史中，直到2006年才被翻译成英文。概率和语言的核心思想，最终在克劳德·香农(Claude Shannon)于1948年发表的极具影响力的论文《传播的数学理论》中得到了重新阐释。</p><p>香农的论文概述了一种精确测量文本信息量的方法，从而为开启数字时代的信息理论奠定了基础。香农是当时为数不多阅读了马尔科夫的论文的人，他非常欣赏马尔科夫的观点：在给定的文本中，可以估计出某个字母或单词出现的可能性。像马尔科夫一样，香农利用若干文本，通过直接实验建立语言的统计模型，然后进一步尝试借助模型的统计规则生成文本。</p><p>最初的控制实验，他首先从27个符号(26个字母，加上一个空格)中随机抽取字符来生成句子，输出结果如下：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">XFOML RXKHRJFFJUJ ZLPWCFWKCYJ FFJEYVKCQSGHYD</span><br><span class="line">QPAAMKBZAACIBZLHJQD</span><br></pre></td></tr></table></figure><p>香农说，它们毫无意义，因为当我们交流时，我们不会随机选择。正如马尔科夫的发现，辅音比元音更有可能出现。但是在更高的粒度级别上，E比S更为普遍，S比Q更为普遍。为了解决这个问题，Shannon在初始可选列表中添加了若干重复的字母，以便更精确地模拟英语字母的出现概率——E的可能性比Q的可能性高11％。新一轮实验，结果比之前稍好： </p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">OCRO HLI RGWR NMIELWIS EU LL NBNESEBYA THEI EEI ALHENHTTPA</span><br><span class="line">OOBTTVA NAH BRL.</span><br></pre></td></tr></table></figure><p>经过一系列的后续实验，香农证明，当统计模型越来越复杂时，结果就越来越像是正常的语句。沿着马尔科夫的思路，香农揭示出英语的统计框架，并表明，如果统计规则足够详尽，那实际上可以利用数学模型生成自然语言。</p><p>在随后用单词进行的实验里，香农最终生成了下面的句子：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">THE HEAD AND IN FRONTAL ATTACK ON AN ENGLISH  WRITER THAT THE</span><br><span class="line">CHARACTER OF THIS POINT IS THEREFORE ANOTHER METHOD FOR  THE</span><br><span class="line">LETTERS THAT THE TIME OF WHO EVER TOLD THE PROBLEM FOR AN </span><br><span class="line">UNEXPECTED.</span><br></pre></td></tr></table></figure><p>对于香农和马尔科夫而言，为人类的语言建立统计模型的尝试，为他们正在研究的更广泛的问题，提供了一种全新的思路。</p><p>对于马尔可夫来说，它把随机性扩展到了相互独立的事件之外，为新时代的概率论铺平了道路。对于香农，受它启发，找出了精确定义信息单位的方法——最终改变了整个世界。但是，仅就语言建模和生成语句的统计方法本身而言，它开辟了自然语言处理新时代。</p><hr><p><em>本文译自  <a href="https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/andrey-markov-and-claude-shannon-built-the-first-language-generation-models" target="_blank" rel="noopener">spectrum</a>，由译者 <a href="http://jandan.net/2019/11/27/andrey-markov.html" target="_blank" rel="noopener">majer</a> 基于创作共用协议(BY-NC)发布。</em></p><p><em>转载自 <a href="https://jandan.net/2019/11/27/andrey-markov.html" target="_blank" rel="noopener">煎蛋</a></em></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;1913年圣彼得堡，俄国数学家安德烈·安德烈耶维奇·马尔科夫(Andrey Andreyevich  Markov)在书房里翻看着亚历山大·普希金(Alexander Pushkin)的诗歌小说《叶甫盖尼·奥涅金》(Eugene  Onegin)。但是，马尔科夫并不是在欣赏
+      
+    
+    </summary>
+    
+    
+    
+      <category term="CS" scheme="http://chamyu.com/tags/CS/"/>
+    
+      <category term="转载" scheme="http://chamyu.com/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>论国内互联网的大环境</title>
     <link href="http://chamyu.com/2019/11/18/GFW/"/>
     <id>http://chamyu.com/2019/11/18/GFW/</id>
     <published>2019-11-18T13:57:52.000Z</published>
-    <updated>2019-11-18T16:03:23.463Z</updated>
+    <updated>2019-12-04T06:36:41.830Z</updated>
     
-    <content type="html"><![CDATA[<p>国内互联网的高压环境确实是愈演愈烈，5年前的人们不会想到很多词在5年后会变得提也不能提。</p><p>高压带来的影响是社会达尔文主义的扩散开来，高度竞争磨灭人类的同情心。当前的社会流向可能是反政治正确等于正确，反LGBT，反女权（平权），左派被批倒批臭。地域歧视，仇视一切异国人士，现实中不会讨论的事在互联网上全都赤裸裸地表达出来。让我不敢相信的是一个世纪前高举的民主自由也能被批判为西方媒体的政治宣传，仇视西方的同时又渴望外来的认同感，这是何等的扭曲。。。由于GFW的存在，部分民众的思想更加片面、偏激。微博论坛充满了各种谩骂，没有平等讨论，有的只是屁股决定脑袋和满天飞的帽子。非黑即白的思维容不得任何意见不同的人，政见不合就举报的行为真实让我感到可笑又可悲。</p><p>当前的环境如此糟心，但还是且过且珍惜，难保某一天环境会变得更糟，提前考虑出路是正道:)</p>]]></content>
+    <content type="html"><![CDATA[<p>国内互联网的高压环境确实是愈演愈烈，5年前的人们不会想到很多词在5年后会变得提也不能提。</p><p>高压带来的影响是社会达尔文主义的扩散开来，高度竞争磨灭人类的同情心。当前的社会流向可能是反政治正确等于正确，反LGBT，反女权（平权），左派被批倒批臭。地域歧视，仇视一切异国人士，现实中不会讨论的事在互联网上全都赤裸裸地表达出来。让我不敢相信的是一个世纪前高举的民主自由也能被批判为西方媒体的政治宣传，仇视西方的同时又渴望外来的认同感，这是何等的扭曲。。。由于GFW的存在，部分民众的思想更加片面、偏激。微博论坛充满了各种谩骂，没有平等讨论，有的只是屁股决定脑袋和满天飞的帽子。非黑即白的思维容不得任何意见不同的人，政见不合就举报的行为真实让我感到可笑又可悲。</p><p>当前的环境如此糟心，但还是且过且珍惜，难保某一天环境会变得更糟，提前考虑出路是正道 :)</p>]]></content>
     
     <summary type="html">
     
@@ -32,21 +58,6 @@
         &lt;p&gt;国内互联网的高压环境确实是愈演愈烈，5年前的人们不会想到很多词在5年后会变得提也不能提。&lt;/p&gt;
 &lt;p&gt;高压带来的影响是社会达尔文主义的扩散开来，高度竞争磨灭人类的同情心。当前的社会流向可能是反政治正确等于正确，反LGBT，反女权（平权），左派被批倒批臭。地域歧视，仇视一切
       
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>历史不应该被忘记</title>
-    <link href="http://chamyu.com/2019/11/14/one-child-nation/"/>
-    <id>http://chamyu.com/2019/11/14/one-child-nation/</id>
-    <published>2019-11-14T15:16:24.000Z</published>
-    <updated>2019-11-14T15:47:10.130Z</updated>
-    
-    <summary type="html">
     
     </summary>
     
@@ -86,7 +97,7 @@
     <link href="http://chamyu.com/2019/11/02/re-hello-world/"/>
     <id>http://chamyu.com/2019/11/02/re-hello-world/</id>
     <published>2019-11-02T15:31:09.000Z</published>
-    <updated>2019-11-13T15:23:27.490Z</updated>
+    <updated>2019-12-04T05:37:01.667Z</updated>
     
     <content type="html"><![CDATA[<p>第一篇blog莫名其妙的404，本地可以显示，云端却一直都是404 not found</p><p>折腾了半天都找不到解决方案，删了重写又太可惜，于是准备重发一份</p><p>就这样~</p><hr><p><em>世界は今一分間に回転のスビートで回って</em>  ♪ </p><hr>]]></content>
     
@@ -104,6 +115,8 @@
     </summary>
     
     
+    
+      <category term="hello world" scheme="http://chamyu.com/tags/hello-world/"/>
     
   </entry>
   
@@ -167,7 +180,7 @@
     <link href="http://chamyu.com/2019/10/30/Hello-World/"/>
     <id>http://chamyu.com/2019/10/30/Hello-World/</id>
     <published>2019-10-30T03:37:46.000Z</published>
-    <updated>2019-11-02T16:06:40.695Z</updated>
+    <updated>2019-12-04T05:36:39.217Z</updated>
     
     <content type="html"><![CDATA[<p>一直想开一个blog来记录自己的学习和成长，折腾了好久总算搭起了这个小窝</p><p>最初的想法是跟着廖雪峰老师用python写一个web app，<del>不过还是人太懒</del>，最终选择了hexo和托管在github pages上的方案</p><p>以后可能会学Django做一些实际的web项目，纠结于计算机专业课的学习，这个计划估计又是遥遥无期( ´_ゝ｀)</p><p>新的起点？今后还得继续努力！</p>]]></content>
     
@@ -184,7 +197,7 @@
     
     
     
-      <category term="hello world!" scheme="http://chamyu.com/tags/hello-world/"/>
+      <category term="hello world" scheme="http://chamyu.com/tags/hello-world/"/>
     
   </entry>
   
