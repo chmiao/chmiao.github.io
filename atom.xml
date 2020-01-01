@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chamyu.com/"/>
-  <updated>2019-12-04T06:30:53.127Z</updated>
+  <updated>2020-01-01T15:28:36.658Z</updated>
   <id>http://chamyu.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>New Year 2020</title>
+    <link href="http://chamyu.com/2020/01/01/new-year-2020/"/>
+    <id>http://chamyu.com/2020/01/01/new-year-2020/</id>
+    <published>2020-01-01T15:25:50.000Z</published>
+    <updated>2020-01-01T15:28:36.658Z</updated>
+    
+    <content type="html"><![CDATA[<p>新的一年也要多多加油 (o゜▽゜)o☆ </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;新的一年也要多多加油 (o゜▽゜)o☆ &lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="日常" scheme="http://chamyu.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>自然语言处理简史之三：马尔科夫和香农的语言统计模型</title>
