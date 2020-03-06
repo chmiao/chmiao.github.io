@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chamyu.com/"/>
-  <updated>2020-01-01T15:28:36.658Z</updated>
+  <updated>2020-03-06T04:22:05.119Z</updated>
   <id>http://chamyu.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>无题</title>
+    <link href="http://chamyu.com/2020/03/06/no-title/"/>
+    <id>http://chamyu.com/2020/03/06/no-title/</id>
+    <published>2020-03-06T04:15:29.000Z</published>
+    <updated>2020-03-06T04:22:05.119Z</updated>
+    
+    <content type="html"><![CDATA[<p>“我这一生中从来没有爱过任何一个民族、任何一个集体——不爱德意志，不爱法兰西，不爱美利坚，不爱工人阶级，不爱这一切。我只爱自己的朋友，我所知道的、所信仰的唯一一种爱，就是爱人。”</p><p>——汉娜·阿伦特</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;“我这一生中从来没有爱过任何一个民族、任何一个集体——不爱德意志，不爱法兰西，不爱美利坚，不爱工人阶级，不爱这一切。我只爱自己的朋友，我所知道的、所信仰的唯一一种爱，就是爱人。”&lt;/p&gt;
+&lt;p&gt;——汉娜·阿伦特&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>New Year 2020</title>
@@ -122,7 +146,7 @@
     <link href="http://chamyu.com/2019/11/02/re-hello-world/"/>
     <id>http://chamyu.com/2019/11/02/re-hello-world/</id>
     <published>2019-11-02T15:31:09.000Z</published>
-    <updated>2019-12-04T05:37:01.667Z</updated>
+    <updated>2020-03-06T04:24:13.244Z</updated>
     
     <content type="html"><![CDATA[<p>第一篇blog莫名其妙的404，本地可以显示，云端却一直都是404 not found</p><p>折腾了半天都找不到解决方案，删了重写又太可惜，于是准备重发一份</p><p>就这样~</p><hr><p><em>世界は今一分間に回転のスビートで回って</em>  ♪ </p><hr>]]></content>
     
@@ -140,8 +164,6 @@
     </summary>
     
     
-    
-      <category term="hello world" scheme="http://chamyu.com/tags/hello-world/"/>
     
   </entry>
   
@@ -205,7 +227,7 @@
     <link href="http://chamyu.com/2019/10/30/Hello-World/"/>
     <id>http://chamyu.com/2019/10/30/Hello-World/</id>
     <published>2019-10-30T03:37:46.000Z</published>
-    <updated>2019-12-04T05:36:39.217Z</updated>
+    <updated>2020-03-06T04:24:02.573Z</updated>
     
     <content type="html"><![CDATA[<p>一直想开一个blog来记录自己的学习和成长，折腾了好久总算搭起了这个小窝</p><p>最初的想法是跟着廖雪峰老师用python写一个web app，<del>不过还是人太懒</del>，最终选择了hexo和托管在github pages上的方案</p><p>以后可能会学Django做一些实际的web项目，纠结于计算机专业课的学习，这个计划估计又是遥遥无期( ´_ゝ｀)</p><p>新的起点？今后还得继续努力！</p>]]></content>
     
@@ -221,8 +243,6 @@
     </summary>
     
     
-    
-      <category term="hello world" scheme="http://chamyu.com/tags/hello-world/"/>
     
   </entry>
   
