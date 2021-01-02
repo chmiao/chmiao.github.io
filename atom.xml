@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chamyu.com/"/>
-  <updated>2020-04-25T11:12:05.063Z</updated>
+  <updated>2021-01-02T16:13:34.105Z</updated>
   <id>http://chamyu.com/</id>
   
   <author>
@@ -15,6 +15,59 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新年第二天开启了LeetCode之旅</title>
+    <link href="http://chamyu.com/2021/01/02/leetcode/"/>
+    <id>http://chamyu.com/2021/01/02/leetcode/</id>
+    <published>2021-01-02T15:58:29.000Z</published>
+    <updated>2021-01-02T16:13:34.105Z</updated>
+    
+    <content type="html"><![CDATA[<p>不管考研上岸与否，敲代码这块必须得拿下！</p><p>PS. 行吧其实我慌得不行，要是复试没过这一年就白忙活( ´_ゝ｀)。笔试部分该早点准备了，希望能成功超车上岸。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;不管考研上岸与否，敲代码这块必须得拿下！&lt;/p&gt;
+&lt;p&gt;PS. 行吧其实我慌得不行，要是复试没过这一年就白忙活( ´_ゝ｀)。笔试部分该早点准备了，希望能成功超车上岸。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="日常" scheme="http://chamyu.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="Coding" scheme="http://chamyu.com/tags/Coding/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>考研前的第183天</title>
+    <link href="http://chamyu.com/2020/06/19/183-days-left/"/>
+    <id>http://chamyu.com/2020/06/19/183-days-left/</id>
+    <published>2020-06-19T14:48:37.000Z</published>
+    <updated>2020-06-23T03:03:49.118Z</updated>
+    
+    <content type="html"><![CDATA[<p>时间来到了2020年半，简单总结下今年所学内容：</p><h3 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h3><p>高数基础薄弱跟老汤的基础班就完事了。学完后做题，反复做题。每一章都陷入了先完全不会然后渐渐上手最后又开始犯浑的循环。总的来说只要肯下功夫就能提升的一门课。线代概率跟李永乐团队，没啥好说的。</p><h3 id="C"><a href="#C" class="headerlink" title="C"></a>C</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;时间来到了2020年半，简单总结下今年所学内容：&lt;/p&gt;
+&lt;h3 id=&quot;数学&quot;&gt;&lt;a href=&quot;#数学&quot; class=&quot;headerlink&quot; title=&quot;数学&quot;&gt;&lt;/a&gt;数学&lt;/h3&gt;&lt;p&gt;高数基础薄弱跟老汤的基础班就完事了。学完后做题，反复做题。每一章都陷入了先完
+      
+    
+    </summary>
+    
+    
+    
+      <category term="日常" scheme="http://chamyu.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>Weather Reporter</title>
@@ -45,7 +98,7 @@
     <link href="http://chamyu.com/2020/03/06/no-title/"/>
     <id>http://chamyu.com/2020/03/06/no-title/</id>
     <published>2020-03-06T04:15:29.000Z</published>
-    <updated>2020-04-25T11:17:24.104Z</updated>
+    <updated>2020-06-19T14:50:44.136Z</updated>
     
     <content type="html"><![CDATA[<p>“我这一生中从来没有爱过任何一个民族、任何一个集体——不爱德意志，不爱法兰西，不爱美利坚，不爱工人阶级，不爱这一切。我只爱自己的朋友，我所知道的、所信仰的唯一一种爱，就是爱人。”</p><p>——汉娜·阿伦特</p>]]></content>
     
@@ -62,7 +115,7 @@
     
     
     
-      <category term="反思" scheme="http://chamyu.com/tags/%E5%8F%8D%E6%80%9D/"/>
+      <category term="随想" scheme="http://chamyu.com/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
@@ -122,7 +175,7 @@
     <link href="http://chamyu.com/2019/11/18/GFW/"/>
     <id>http://chamyu.com/2019/11/18/GFW/</id>
     <published>2019-11-18T13:57:52.000Z</published>
-    <updated>2020-04-25T11:17:19.420Z</updated>
+    <updated>2020-06-19T14:50:58.082Z</updated>
     
     <content type="html"><![CDATA[<p>国内互联网的高压环境确实是愈演愈烈，5年前的人们不会想到很多词在5年后会变得提也不能提。</p><p>高压带来的影响是社会达尔文主义的扩散开来，高度竞争磨灭人类的同情心。当前的社会流向可能是反政治正确等于正确，反LGBT，反女权（平权），左派被批倒批臭。地域歧视，仇视一切异国人士，现实中不会讨论的事在互联网上全都赤裸裸地表达出来。让我不敢相信的是一个世纪前高举的民主自由也能被批判为西方媒体的政治宣传，仇视西方的同时又渴望外来的认同感，这是何等的扭曲。。。由于GFW的存在，部分民众的思想更加片面、偏激。微博论坛充满了各种谩骂，没有平等讨论，有的只是屁股决定脑袋和满天飞的帽子。非黑即白的思维容不得任何意见不同的人，政见不合就举报的行为真实让我感到可笑又可悲。</p><p>当前的环境如此糟心，但还是且过且珍惜，难保某一天环境会变得更糟，提前考虑出路是正道 :)</p>]]></content>
     
@@ -138,7 +191,7 @@
     
     
     
-      <category term="反思" scheme="http://chamyu.com/tags/%E5%8F%8D%E6%80%9D/"/>
+      <category term="随想" scheme="http://chamyu.com/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
