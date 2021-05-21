@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chamyu.com/"/>
-  <updated>2021-03-05T07:45:47.500Z</updated>
+  <updated>2021-01-08T14:03:08.590Z</updated>
   <id>http://chamyu.com/</id>
   
   <author>
@@ -15,29 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>RedMi K30s使用体验</title>
-    <link href="http://chamyu.com/2021/03/05/new-phone/"/>
-    <id>http://chamyu.com/2021/03/05/new-phone/</id>
-    <published>2021-03-05T07:41:49.000Z</published>
-    <updated>2021-03-05T07:45:47.500Z</updated>
-    
-    <content type="html"><![CDATA[<p>春节在家</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;春节在家&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Markdown语法</title>
