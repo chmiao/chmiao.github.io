@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chamyu.com/"/>
-  <updated>2021-01-08T14:03:08.590Z</updated>
+  <updated>2021-06-05T17:05:40.443Z</updated>
   <id>http://chamyu.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>毕业之前</title>
+    <link href="http://chamyu.com/2021/05/26/graduation/"/>
+    <id>http://chamyu.com/2021/05/26/graduation/</id>
+    <published>2021-05-26T08:23:41.000Z</published>
+    <updated>2021-06-05T17:05:40.443Z</updated>
+    
+    <content type="html"><![CDATA[<p>写在毕业之际，说短不短的大学四年虽然过得没多充实，但总的来说还算是开心。</p><p>高考填志愿时和大多数人一样，我并不知道自己真正想学什么，稀里糊涂地就录取进了电子信息专业。大一时随大流该学就学该玩就玩，直到大二才开始意识到这专业或许不适合我，也没啥特别的理由，就想着偏软件的计算机才是我更想要的。由于多方面原因转专业的计划未能实现，或许现在我也还是浑浑噩噩地在过日子，但考研总算是给了我一个明确的方向。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;写在毕业之际，说短不短的大学四年虽然过得没多充实，但总的来说还算是开心。&lt;/p&gt;
+&lt;p&gt;高考填志愿时和大多数人一样，我并不知道自己真正想学什么，稀里糊涂地就录取进了电子信息专业。大一时随大流该学就学该玩就玩，直到大二才开始意识到这专业或许不适合我，也没啥特别的理由，就想着偏
+      
+    
+    </summary>
+    
+    
+    
+      <category term="日常" scheme="http://chamyu.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown语法</title>
@@ -44,20 +69,19 @@
   </entry>
   
   <entry>
-    <title>新年第二天开启了LeetCode之旅</title>
+    <title>LeetCode记录</title>
     <link href="http://chamyu.com/2021/01/02/leetcode/"/>
     <id>http://chamyu.com/2021/01/02/leetcode/</id>
     <published>2021-01-02T15:58:29.000Z</published>
-    <updated>2021-01-02T16:13:34.105Z</updated>
+    <updated>2021-06-01T15:45:52.196Z</updated>
     
-    <content type="html"><![CDATA[<p>不管考研上岸与否，敲代码这块必须得拿下！</p><p>PS. 行吧其实我慌得不行，要是复试没过这一年就白忙活( ´_ゝ｀)。笔试部分该早点准备了，希望能成功超车上岸。</p>]]></content>
+    <content type="html"><![CDATA[<p>LeetCode 101 - A LeetCode Grinding Guide (C Version)这个文档还是挺好用的</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;不管考研上岸与否，敲代码这块必须得拿下！&lt;/p&gt;
-&lt;p&gt;PS. 行吧其实我慌得不行，要是复试没过这一年就白忙活( ´_ゝ｀)。笔试部分该早点准备了，希望能成功超车上岸。&lt;/p&gt;
+        &lt;p&gt;LeetCode 101 - A LeetCode Grinding Guide (C Version)这个文档还是挺好用的&lt;/p&gt;
 
       
     
