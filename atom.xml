@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chamyu.com/"/>
-  <updated>2021-10-03T05:51:21.779Z</updated>
+  <updated>2021-11-03T03:14:11.563Z</updated>
   <id>http://chamyu.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>chamyu.com上线2周年</title>
+    <link href="http://chamyu.com/2021/11/02/two-year-anniversary/"/>
+    <id>http://chamyu.com/2021/11/02/two-year-anniversary/</id>
+    <published>2021-11-02T02:47:06.000Z</published>
+    <updated>2021-11-03T03:14:11.563Z</updated>
+    
+    <content type="html"><![CDATA[<p>从2019.10.31注册域名到现在，学习和成就大概是没有，基本就是我两年考研和neet的见证；；</p><p>P.S. 服务器用的github pages所以不花钱，域名费是水涨船高从最初的8$到今年开始要10$，花费平摊到每天目前还算能接受。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;从2019.10.31注册域名到现在，学习和成就大概是没有，基本就是我两年考研和neet的见证；；&lt;/p&gt;
+&lt;p&gt;P.S. 服务器用的github pages所以不花钱，域名费是水涨船高从最初的8$到今年开始要10$，花费平摊到每天目前还算能接受。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="blog" scheme="http://chamyu.com/tags/blog/"/>
+    
+  </entry>
   
   <entry>
     <title>7月~9月小结</title>
