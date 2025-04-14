@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chamyu.com/"/>
-  <updated>2022-03-12T17:07:55.646Z</updated>
+  <updated>2025-04-13T17:03:08.354Z</updated>
   <id>http://chamyu.com/</id>
   
   <author>
@@ -14,13 +14,58 @@
     
   </author>
   
-  <generator uri="http://hexo.io/">Hexo</generator>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日本生活照片100选</title>
+    <link href="http://chamyu.com/2025/04/13/live-in-Japan/"/>
+    <id>http://chamyu.com/2025/04/13/live-in-Japan/</id>
+    <published>2025-04-13T14:57:28.000Z</published>
+    <updated>2025-04-13T17:03:08.354Z</updated>
+    
+    <content type="html"><![CDATA[<p>test</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;test&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>重拾</title>
+    <link href="http://chamyu.com/2025/04/13/new-begining/"/>
+    <id>http://chamyu.com/2025/04/13/new-begining/</id>
+    <published>2025-04-13T13:12:48.000Z</published>
+    <updated>2025-04-13T17:05:29.333Z</updated>
+    
+    <content type="html"><![CDATA[<p>虽说是时隔3年的重新开始，不过我自始至终也就没有认真写过博文。回想当初还是受<a href="https://zrstea.com" target="_blank" rel="noopener">ZRS</a>的影响才建立了此博客，稀松平常的流水帐，苦于造句最终还是选择了放弃。即便如此，我还是会感谢这平凡的文字带给我的回忆，以及来之不易的成长。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;虽说是时隔3年的重新开始，不过我自始至终也就没有认真写过博文。回想当初还是受&lt;a href=&quot;https://zrstea.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;ZRS&lt;/a&gt;的影响才建立了此博客，稀松平常的流水帐，苦于造句最终还是选择了放
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>求职小结</title>
     <link href="http://chamyu.com/2022/03/12/want-to-moyu/"/>
     <id>http://chamyu.com/2022/03/12/want-to-moyu/</id>
-    <published>2022-03-12T14:31:53.000Z</published>
+    <published>2022-03-12T13:31:53.000Z</published>
     <updated>2022-03-12T17:07:55.646Z</updated>
     
     <content type="html"><![CDATA[<p>虽然考研结果还没公布，但考得如何自己再清楚不过了，原定于3月份的求职计划不得不提前一些。</p><hr><h5 id="2月14号-Java后端"><a href="#2月14号-Java后端" class="headerlink" title="2月14号 - Java后端"></a>2月14号 - Java后端</h5><p>在熟人介绍下开始了第一次面试，对Java的了解只有在校期间学的基础语法，项目完全没有。面试时不仅紧张而且专业问题一个也没答出来，不出意料地挂了，傻傻的我回去还等了一个星期的消息，确认无望后躺平在家通关了弹丸论破1…</p><h5 id="3月2日-C-后端-amp-Qt"><a href="#3月2日-C-后端-amp-Qt" class="headerlink" title="3月2日 - C++后端&amp;Qt"></a>3月2日 - C++后端&amp;Qt</h5><p>2月底找朋友借了Boss的账号，这边的职位要多得多，转了一圈后选择了一些C++相关岗位。3月2号这天面了三家公司。第一家是在Ubuntu上做的Qt开发，要求不高且没笔试，各方面我都挺满意对方我对我印象也不错的样子。第二家的工作环境只能说是脏乱差，给了笔试题胡乱做完，双方都不太满意不如直接走人。第三家也是做C++和Qt相关，去公司时面试官刚好在开会，两个就职不久的年轻人简单给我走个面试流程，气氛可以说是挺轻松，不过技术方面还是我最大的短板，十多分钟结束让我回去等他老板结果。</p><hr><p>综合考虑后选择了第一家Qt开发，虽然是不满10人的小办公室，公司整体给我的感受还不错，薪水足够我一人生活，朝九晚六的工作也算是WLB，最终答应了offer于3月10日正式入职工作。</p>]]></content>
@@ -46,7 +91,7 @@
     <title>random</title>
     <link href="http://chamyu.com/2022/01/29/random/"/>
     <id>http://chamyu.com/2022/01/29/random/</id>
-    <published>2022-01-29T11:40:43.000Z</published>
+    <published>2022-01-29T10:40:43.000Z</published>
     <updated>2022-03-12T17:01:22.634Z</updated>
     
     <content type="html"><![CDATA[<p>無</p>]]></content>
@@ -69,7 +114,7 @@
     <title>chamyu.com上线2周年</title>
     <link href="http://chamyu.com/2021/11/02/two-year-anniversary/"/>
     <id>http://chamyu.com/2021/11/02/two-year-anniversary/</id>
-    <published>2021-11-02T02:47:06.000Z</published>
+    <published>2021-11-02T01:47:06.000Z</published>
     <updated>2021-11-03T03:14:11.563Z</updated>
     
     <content type="html"><![CDATA[<p>从2019.10.31注册域名到现在，学习和成就大概是没有，基本就是我两年考研和neet的见证；；</p><p>P.S. 服务器用的github pages所以不花钱，域名费是水涨船高从最初的8$到今年开始要10$，花费平摊到每天目前还算能接受。</p>]]></content>
@@ -95,7 +140,7 @@
     <title>7月~9月小结</title>
     <link href="http://chamyu.com/2021/10/03/summary-1/"/>
     <id>http://chamyu.com/2021/10/03/summary-1/</id>
-    <published>2021-10-03T04:31:03.000Z</published>
+    <published>2021-10-03T03:31:03.000Z</published>
     <updated>2021-10-03T05:51:21.779Z</updated>
     
     <content type="html"><![CDATA[<p>这一年说实话还是很摸，不过有了去年的基础打底，今年反倒没太多压力。其实没啥好总结的，不过花钱搭这blog总得用来做点什么才能心理平衡啊。</p><p>7月算是学得最认真的一段时间，今年决定加入408头铁党，知识范围太广着实让我难以适应，在这不到100天的时间里希望能强化到100分以上的水平。对于数学660作为习题集质量比1800好太多，果然多做题才会有更深的理解。8月，或许是过于久坐，不幸<del>追尾了黑色高级……</del>菊部旧伤复发，从这开始每天意志力大幅下降，以至浑浑噩噩摸鱼到现在。虽然总是提醒自己应该加把劲，但各种厌学情绪总让我静不下来，无语。9月开始像老大爷一般下楼遛弯，ass恢复未果，反倒沉迷于撸猫猫，不过都是热脸贴冷屁股…最近猫猫们好像也渐渐和我熟悉了起来？有时喵喵两下就过来了，还真是幸福感蹭蹭地往上涌。这一块流浪猫数量挺多，若愿意收养还是希望有人能带回家，对人对猫都是好事……</p>]]></content>
@@ -122,7 +167,7 @@
     <title>时代的悲哀</title>
     <link href="http://chamyu.com/2021/08/18/2021-8-18/"/>
     <id>http://chamyu.com/2021/08/18/2021-8-18/</id>
-    <published>2021-08-18T01:02:41.000Z</published>
+    <published>2021-08-18T00:02:41.000Z</published>
     <updated>2021-08-19T02:50:27.068Z</updated>
     
     <content type="html"><![CDATA[<p>越来越佩服能在当下环境中敢于站出来说话的人，这些人是勇敢的。近来回形针被打倒、张文宏医生被批斗，有素养的中文评论来都处于被质疑的边缘，浏览微博论坛对我来说渐渐成为折磨。毕竟即使你鼓掌不够热烈也会有无数帽子扣到你头上时，大多数人都会选择闭嘴。没有异见的社会是最可怕的，当人们都如同机器一般复读同一件事，也就距离行尸走肉不远了。</p><p><strong><em>在这个癫狂的环境下，如果我什么也做不到，我希望我能保持善良的自己，至少不去为恶人叫好。</em></strong></p>]]></content>
@@ -146,7 +191,7 @@
     <title>告别蒲公英</title>
     <link href="http://chamyu.com/2021/06/25/npupt/"/>
     <id>http://chamyu.com/2021/06/25/npupt/</id>
-    <published>2021-06-25T15:23:06.000Z</published>
+    <published>2021-06-25T14:23:06.000Z</published>
     <updated>2021-06-25T16:20:13.240Z</updated>
     
     <content type="html"><![CDATA[<p>记得还是大二时b梗吧吧友推荐给我的高校pt站，与北邮人等不同的是蒲公英不是完全的邀请制，这让我一个普通本科生也可和顶尖高校生共享资源。教育网资源或许是大学在校四年最宝贵的，带给我的收获远超预期。不仅仅是丰富的电影动画资源，还有很多高质的学习资料，第一次实际接触ipv6也是在这里233，互联网的共享精神在pt站得以延续。现在申请了ipv6网络的家庭也可以使用蒲公英，随着蒲公英用户群体的壮大，相信以后会越来越好。</p><p><img src="https://i.loli.net/2021/06/26/FxIhPnJWsp5Q2Ol.jpg" alt="20210626001736.jpg"></p>]]></content>
@@ -170,7 +215,7 @@
     <title>毕业之前</title>
     <link href="http://chamyu.com/2021/05/26/graduation/"/>
     <id>http://chamyu.com/2021/05/26/graduation/</id>
-    <published>2021-05-26T08:23:41.000Z</published>
+    <published>2021-05-26T07:23:41.000Z</published>
     <updated>2021-06-05T17:05:40.443Z</updated>
     
     <content type="html"><![CDATA[<p>写在毕业之际，说短不短的大学四年虽然过得没多充实，但总的来说还算是开心。</p><p>高考填志愿时和大多数人一样，我并不知道自己真正想学什么，稀里糊涂地就录取进了电子信息专业。大一时随大流该学就学该玩就玩，直到大二才开始意识到这专业或许不适合我，也没啥特别的理由，就想着偏软件的计算机才是我更想要的。由于多方面原因转专业的计划未能实现，或许现在我也还是浑浑噩噩地在过日子，但考研总算是给了我一个明确的方向。</p>]]></content>
@@ -195,7 +240,7 @@
     <title>Markdown语法</title>
     <link href="http://chamyu.com/2021/01/08/markdown-grammar/"/>
     <id>http://chamyu.com/2021/01/08/markdown-grammar/</id>
-    <published>2021-01-08T09:57:24.000Z</published>
+    <published>2021-01-08T08:57:24.000Z</published>
     <updated>2021-01-08T14:03:08.590Z</updated>
     
     <content type="html"><![CDATA[<p>常看常新</p><hr><h3 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h3><p>使用<code>#</code>号可表示1-6级标题</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">## 二级标题</span><br><span class="line">### 三级标题</span><br><span class="line">#### 四级标题</span><br></pre></td></tr></table></figure><h3 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h3><p>Markdown可以使用以下几种字体</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">*斜体文字*</span><br><span class="line">**粗体文字**</span><br><span class="line">***粗斜体文本***</span><br></pre></td></tr></table></figure><h3 id="分隔线"><a href="#分隔线" class="headerlink" title="分隔线"></a>分隔线</h3><p>你可以在一行中用三个以上的星号、减号、底线来建立一个分隔线，行内不能有其他东西。你也可以在星号或是减号中间插入空格。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">***</span><br><span class="line">- - -</span><br></pre></td></tr></table></figure><h3 id="删除线"><a href="#删除线" class="headerlink" title="删除线"></a>删除线</h3><p>如果段落上的文字要添加删除线，只需要在文字的两端加上两个波浪线 ~~ 即可。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">chamyu.com</span><br><span class="line">~~chamyu.com~~</span><br></pre></td></tr></table></figure><h3 id="脚注"><a href="#脚注" class="headerlink" title="脚注"></a>脚注</h3><p>脚注是对文本的补充说明。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[^要脚注的文本]</span><br></pre></td></tr></table></figure><h3 id="区块"><a href="#区块" class="headerlink" title="区块"></a>区块</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&gt; 最外层</span><br><span class="line">&gt;&gt; 第一层嵌套</span><br><span class="line">&gt;&gt;&gt; 第二层嵌套</span><br></pre></td></tr></table></figure><h3 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h3><ul><li>无序列表</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">* 第一项</span><br><span class="line">* 第二项</span><br></pre></td></tr></table></figure><ul><li>有序列表</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">1. 第一项</span><br><span class="line">2. 第二项</span><br></pre></td></tr></table></figure><ul><li>列表嵌套</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">1. 第一项：</span><br><span class="line">- 第一项嵌套的第一个元素</span><br><span class="line">- 第一项嵌套的第二个元素</span><br></pre></td></tr></table></figure><h3 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h3><p>使用<code>```</code>包裹一段代码（可指定一种语言）</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="built_in">cout</span> &lt;&lt; <span class="string">"hello, world!"</span> &lt;&lt; <span class="built_in">endl</span>;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h3 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">[链接名称](链接地址)</span><br><span class="line">&lt;链接地址&gt;</span><br></pre></td></tr></table></figure><h3 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![属性文本](图片地址&quot;可选标题&quot;)</span><br></pre></td></tr></table></figure><hr><p><em>more markdown skills:</em></p><p><em>[1] <a href="https://www.runoob.com/markdown/md-tutorial.html" target="_blank" rel="noopener">Markdown 教程</a></em></p><p><em>[2] <a href="http://ibruce.info/2013/11/26/markdown" target="_blank" rel="noopener">markdown简明语法</a></em></p>]]></content>
@@ -222,7 +267,7 @@
     <title>LeetCode记录</title>
     <link href="http://chamyu.com/2021/01/02/leetcode/"/>
     <id>http://chamyu.com/2021/01/02/leetcode/</id>
-    <published>2021-01-02T15:58:29.000Z</published>
+    <published>2021-01-02T14:58:29.000Z</published>
     <updated>2021-06-01T15:45:52.196Z</updated>
     
     <content type="html"><![CDATA[<p>LeetCode 101 - A LeetCode Grinding Guide (C Version)这个文档还是挺好用的</p>]]></content>
@@ -249,7 +294,7 @@
     <title>考研前的第183天</title>
     <link href="http://chamyu.com/2020/06/19/183-days-left/"/>
     <id>http://chamyu.com/2020/06/19/183-days-left/</id>
-    <published>2020-06-19T14:48:37.000Z</published>
+    <published>2020-06-19T13:48:37.000Z</published>
     <updated>2021-08-19T02:46:37.923Z</updated>
     
     <content type="html"><![CDATA[<p>2022再战哩</p><p><span style="color:grey">[<em>edited on 2021-3-3</em>]</span></p>]]></content>
@@ -275,7 +320,7 @@
     <title>Weather Reporter</title>
     <link href="http://chamyu.com/2020/04/25/fishmans/"/>
     <id>http://chamyu.com/2020/04/25/fishmans/</id>
-    <published>2020-04-25T09:32:47.000Z</published>
+    <published>2020-04-25T08:32:47.000Z</published>
     <updated>2021-01-08T10:32:35.219Z</updated>
     
     <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=22733750&auto=0&height=66"></iframe><p><em>东京地方に大雨が降り续けて<br>部屋の中に居续けることもあるさ<br>まるで鱼になった气分だよ<br>まるで水槽の中の鱼<br>まるで泳がない鱼<br>台风の夜は风が吹き续けて<br>纸ふぶきをまきちらすこともあるさ<br>风にのっかってね　风にのっかってね<br>纸ひこうきをとばし续けることもあるさ<br>何だか梦のあることだと信じてます<br>风が吹き续けて　いつもここにいるよ<br>何かいいことがなかったけなあ　何か<br>风を止めたいなあ　どっか远くへ行きたいなあ<br>风を呼びたいなあ　このままこうしてもいたいなあ<br>东京地方に青空が广がって<br>春なのに25度を越えていこうとするような时もあるさ<br>あるさ<br>なんだかそれはデート日和なんだ<br>风が吹き续けて　いつもここにいるよ<br>何かいいことがあったはずさ<br>风が吹き续けて　いつもここにいるよ<br>だれかがいつもそばにいたはずさあ</em></p><hr><p>21 years ago, Shinji Sato passed away.<br>Rest in Peace</p><p><img src="https://i.loli.net/2020/04/25/vrGSyzQFaKWmNob.jpg" alt="IMG_20200425_172714_0.jpg"></p>]]></content>
@@ -299,7 +344,7 @@
     <title>无题</title>
     <link href="http://chamyu.com/2020/03/06/no-title/"/>
     <id>http://chamyu.com/2020/03/06/no-title/</id>
-    <published>2020-03-06T04:15:29.000Z</published>
+    <published>2020-03-06T03:15:29.000Z</published>
     <updated>2020-06-19T14:50:44.136Z</updated>
     
     <content type="html"><![CDATA[<p>“我这一生中从来没有爱过任何一个民族、任何一个集体——不爱德意志，不爱法兰西，不爱美利坚，不爱工人阶级，不爱这一切。我只爱自己的朋友，我所知道的、所信仰的唯一一种爱，就是爱人。”</p><p>——汉娜·阿伦特</p>]]></content>
@@ -325,7 +370,7 @@
     <title>New Year 2020</title>
     <link href="http://chamyu.com/2020/01/01/new-year-2020/"/>
     <id>http://chamyu.com/2020/01/01/new-year-2020/</id>
-    <published>2020-01-01T15:25:50.000Z</published>
+    <published>2020-01-01T14:25:50.000Z</published>
     <updated>2020-01-01T15:28:36.658Z</updated>
     
     <content type="html"><![CDATA[<p>新的一年也要多多加油 (o゜▽゜)o☆ </p>]]></content>
@@ -350,7 +395,7 @@
     <title>自然语言处理简史之三：马尔科夫和香农的语言统计模型</title>
     <link href="http://chamyu.com/2019/12/04/andrey-markov/"/>
     <id>http://chamyu.com/2019/12/04/andrey-markov/</id>
-    <published>2019-12-04T05:17:44.000Z</published>
+    <published>2019-12-04T04:17:44.000Z</published>
     <updated>2021-01-08T13:45:45.037Z</updated>
     
     <content type="html"><![CDATA[<p>1913年圣彼得堡，俄国数学家安德烈·安德烈耶维奇·马尔科夫(Andrey Andreyevich  Markov)在书房里翻看着亚历山大·普希金(Alexander Pushkin)的诗歌小说《叶甫盖尼·奥涅金》(Eugene  Onegin)。但是，马尔科夫并不是在欣赏诗歌。相反，他拿起一支笔，在草纸上抄录下诗歌的前20000个字母——去掉所有标点和空格。然后，他将字母串等分成200节，每节100个字母按10×10规格罗列成矩阵，开始对每一行和每一列中的元音计数。</p><p>在旁观者看来，马尔科夫举止诡异。为何有人会以这种方式解构文学天才的作品？但是马尔科夫并不打算从诗歌中体悟人生和命运的真相。他正在寻找文本的基本数学结构。</p><p>分离元音和辅音，马尔科夫希望检验从1909年发展起来的概率论。在当时，概率理论主要用于分析分析轮盘赌或硬币翻转之类的现象，历史事件不会改变当前事件的概率。但是马尔科夫认为，大多数事件具有因果关系，先发生的事件往往影响到之后的事件。他想要找出这种关系的数学模型。</p><p>他认为，语言文本就是一个例子——过去部分地决定了当前。为了证明这一点，他想统计出，普希金小说中，前一个字母在多大程度上决定了之后字母的选择。</p><p>经过简单计数，他发现43％的字母是元音，而57％是辅音。然后，马尔科夫将这20000个字母分成成对的元音和辅音组合：他发现有1104个元音-元音对，3827个辅音-辅音对和15069个元音-辅音和辅音-元音对。从统计学上讲，这表明，对于普希金文本中的任何给定字母，如果它是元音，则下一个字母很大程度上会是辅音，反之亦然。</p><p>马尔科夫证明，普希金的《叶甫盖尼·奥涅金》中的字母不仅不是随机分布，而且还具有可以建模的基本统计质量。遗憾的是，他就此写成的论文却埋没在历史中，直到2006年才被翻译成英文。概率和语言的核心思想，最终在克劳德·香农(Claude Shannon)于1948年发表的极具影响力的论文《传播的数学理论》中得到了重新阐释。</p><p>香农的论文概述了一种精确测量文本信息量的方法，从而为开启数字时代的信息理论奠定了基础。香农是当时为数不多阅读了马尔科夫的论文的人，他非常欣赏马尔科夫的观点：在给定的文本中，可以估计出某个字母或单词出现的可能性。像马尔科夫一样，香农利用若干文本，通过直接实验建立语言的统计模型，然后进一步尝试借助模型的统计规则生成文本。</p><p>最初的控制实验，他首先从27个符号(26个字母，加上一个空格)中随机抽取字符来生成句子，输出结果如下：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">XFOML RXKHRJFFJUJ ZLPWCFWKCYJ FFJEYVKCQSGHYD</span><br><span class="line">QPAAMKBZAACIBZLHJQD</span><br></pre></td></tr></table></figure><p>香农说，它们毫无意义，因为当我们交流时，我们不会随机选择。正如马尔科夫的发现，辅音比元音更有可能出现。但是在更高的粒度级别上，E比S更为普遍，S比Q更为普遍。为了解决这个问题，Shannon在初始可选列表中添加了若干重复的字母，以便更精确地模拟英语字母的出现概率——E的可能性比Q的可能性高11％。新一轮实验，结果比之前稍好： </p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">OCRO HLI RGWR NMIELWIS EU LL NBNESEBYA THEI EEI ALHENHTTPA</span><br><span class="line">OOBTTVA NAH BRL.</span><br></pre></td></tr></table></figure><p>经过一系列的后续实验，香农证明，当统计模型越来越复杂时，结果就越来越像是正常的语句。沿着马尔科夫的思路，香农揭示出英语的统计框架，并表明，如果统计规则足够详尽，那实际上可以利用数学模型生成自然语言。</p><p>在随后用单词进行的实验里，香农最终生成了下面的句子：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">THE HEAD AND IN FRONTAL ATTACK ON AN ENGLISH  WRITER THAT THE</span><br><span class="line">CHARACTER OF THIS POINT IS THEREFORE ANOTHER METHOD FOR  THE</span><br><span class="line">LETTERS THAT THE TIME OF WHO EVER TOLD THE PROBLEM FOR AN </span><br><span class="line">UNEXPECTED.</span><br></pre></td></tr></table></figure><p>对于香农和马尔科夫而言，为人类的语言建立统计模型的尝试，为他们正在研究的更广泛的问题，提供了一种全新的思路。</p><p>对于马尔可夫来说，它把随机性扩展到了相互独立的事件之外，为新时代的概率论铺平了道路。对于香农，受它启发，找出了精确定义信息单位的方法——最终改变了整个世界。但是，仅就语言建模和生成语句的统计方法本身而言，它开辟了自然语言处理新时代。</p><hr><p><em>本文译自  <a href="https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/andrey-markov-and-claude-shannon-built-the-first-language-generation-models" target="_blank" rel="noopener">spectrum</a>，由译者 <a href="http://jandan.net/2019/11/27/andrey-markov.html" target="_blank" rel="noopener">majer</a> 基于创作共用协议(BY-NC)发布。</em></p><p><em>转载自 <a href="https://jandan.net/2019/11/27/andrey-markov.html" target="_blank" rel="noopener">煎蛋</a></em></p>]]></content>
@@ -376,7 +421,7 @@
     <title>论国内互联网的大环境</title>
     <link href="http://chamyu.com/2019/11/18/GFW/"/>
     <id>http://chamyu.com/2019/11/18/GFW/</id>
-    <published>2019-11-18T13:57:52.000Z</published>
+    <published>2019-11-18T12:57:52.000Z</published>
     <updated>2020-06-19T14:50:58.082Z</updated>
     
     <content type="html"><![CDATA[<p>国内互联网的高压环境确实是愈演愈烈，5年前的人们不会想到很多词在5年后会变得提也不能提。</p><p>高压带来的影响是社会达尔文主义的扩散开来，高度竞争磨灭人类的同情心。当前的社会流向可能是反政治正确等于正确，反LGBT，反女权（平权），左派被批倒批臭。地域歧视，仇视一切异国人士，现实中不会讨论的事在互联网上全都赤裸裸地表达出来。让我不敢相信的是一个世纪前高举的民主自由也能被批判为西方媒体的政治宣传，仇视西方的同时又渴望外来的认同感，这是何等的扭曲。。。由于GFW的存在，部分民众的思想更加片面、偏激。微博论坛充满了各种谩骂，没有平等讨论，有的只是屁股决定脑袋和满天飞的帽子。非黑即白的思维容不得任何意见不同的人，政见不合就举报的行为真实让我感到可笑又可悲。</p><p>当前的环境如此糟心，但还是且过且珍惜，难保某一天环境会变得更糟，提前考虑出路是正道 :)</p>]]></content>
@@ -401,7 +446,7 @@
     <title>天天吃鸡吃不胖，天天摸鱼身体棒~</title>
     <link href="http://chamyu.com/2019/11/13/moyu/"/>
     <id>http://chamyu.com/2019/11/13/moyu/</id>
-    <published>2019-11-13T15:24:55.000Z</published>
+    <published>2019-11-13T14:24:55.000Z</published>
     <updated>2019-11-14T15:15:10.822Z</updated>
     
     <content type="html"><![CDATA[<p>年轻人日子过得还是太舒服了，天天逃课又不干正事，看书2小时一半时间在摸鱼</p><p><del>我TM还有脸说</del></p><p>b站S1都得慢慢戒了，也不用纠结院校，好好努力明年最大的可能还是肥工，当然也可能本校都考不上（反向flag</p><p>最近晚上不断电了，加把劲多学一会</p>]]></content>
@@ -428,7 +473,7 @@
     <title>Hello World pt.2</title>
     <link href="http://chamyu.com/2019/11/02/re-hello-world/"/>
     <id>http://chamyu.com/2019/11/02/re-hello-world/</id>
-    <published>2019-11-02T15:31:09.000Z</published>
+    <published>2019-11-02T14:31:09.000Z</published>
     <updated>2021-01-08T10:29:20.263Z</updated>
     
     <content type="html"><![CDATA[<p>第一篇blog莫名其妙的404，本地可以显示，云端却一直都是404 not found</p><p>折腾了半天都找不到解决方案，删了重写又太可惜，于是准备重发一份</p><p>就这样~</p><hr><p><em>世界は今一分間に回転のスビートで回って</em>  ♪ </p><hr>]]></content>
@@ -456,7 +501,7 @@
     <title>NAS初体验</title>
     <link href="http://chamyu.com/2019/11/02/My-first-NAS/"/>
     <id>http://chamyu.com/2019/11/02/My-first-NAS/</id>
-    <published>2019-11-02T02:32:05.000Z</published>
+    <published>2019-11-02T01:32:05.000Z</published>
     <updated>2021-01-08T10:30:06.548Z</updated>
     
     <content type="html"><![CDATA[<p>近年来NAS越来越流行，长期泡在S1里让我产生了阿宅们人手一台NAS的错觉，毕竟能有一台自己的云服务器用于看动画听音声再好不过了</p><p>前几天看到坛友提到的矿渣猫盘各方面都很不错，很是想拥有。于是立即上闲鱼下了单外加一块320G的西数蓝盘用来尝尝鲜</p><p>实际体验相当不错，上传下载皆能达到6MB/s左右。除了云存储也可以当下载机来玩玩，不过我的老路由器只有ipv4挂不了ipv6的pt，只能等毕业后升级路由器来弥补遗憾了</p><p><img src="https://i.loli.net/2019/11/18/R2hdr5WMgtpFIcL.jpg" alt="IMG_20191031_165005_2.jpg"></p>]]></content>
@@ -477,35 +522,6 @@
       <category term="Data" scheme="http://chamyu.com/tags/Data/"/>
     
       <category term="NAS" scheme="http://chamyu.com/tags/NAS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>论备份数据的重要性</title>
-    <link href="http://chamyu.com/2019/11/01/SSD-data-recovery/"/>
-    <id>http://chamyu.com/2019/11/01/SSD-data-recovery/</id>
-    <published>2019-11-01T14:03:09.000Z</published>
-    <updated>2021-01-08T10:29:35.698Z</updated>
-    
-    <content type="html"><![CDATA[<p>清硬盘时手贱圈了一个超过10GB和谐资源的文件， 结果系统就给我直接永久删除了</p><p>我当时就Σ( ﾟдﾟ)…… WDNMD就是手贱</p><p>颤抖着手开始搜索数据恢复的方法，一番调查后用Disk Genius来进行数据恢复</p><p>把文件拷出来后发现数据已经损坏，这我才知道由于固态硬盘的存储特性，数据丢失基本等于完蛋</p><p>行吧，又学到一个新知识，不过这学习成本未免太大了( TдT)</p><p>重要数据(大嘘)还是得及时备份</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;清硬盘时手贱圈了一个超过10GB和谐资源的文件， 结果系统就给我直接永久删除了&lt;/p&gt;
-&lt;p&gt;我当时就Σ( ﾟдﾟ)…… WDNMD就是手贱&lt;/p&gt;
-&lt;p&gt;颤抖着手开始搜索数据恢复的方法，一番调查后用Disk Genius来进行数据恢复&lt;/p&gt;
-&lt;p&gt;把文件拷出来后发现数据
-      
-    
-    </summary>
-    
-    
-    
-      <category term="Data" scheme="http://chamyu.com/tags/Data/"/>
-    
-      <category term="SSD" scheme="http://chamyu.com/tags/SSD/"/>
     
   </entry>
   
